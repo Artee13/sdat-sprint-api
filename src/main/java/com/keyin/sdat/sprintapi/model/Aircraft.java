@@ -6,6 +6,9 @@ import lombok.*;
 import java.util.HashSet;
 import java.util.Set;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
+
 @Entity
 @Getter @Setter
 @NoArgsConstructor @AllArgsConstructor
@@ -21,6 +24,7 @@ public class Aircraft {
     private Integer numberOfPassengers;
 
     @ManyToMany(mappedBy = "aircraftFlown")
+    @JsonIgnore
     @Builder.Default
     private Set<Passenger> passengers = new HashSet<>();
 
