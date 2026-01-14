@@ -1,0 +1,9 @@
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/SprintapiApplication.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/model/Aircraft.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/model/Airport.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/model/City.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/model/Passenger.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/repository/AircraftRepository.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/repository/AirportRepository.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/repository/CityRepository.java
+/Users/student/sdat-sprint-api/src/main/java/com/keyin/sdat/sprintapi/repository/PassengerRepository.java
